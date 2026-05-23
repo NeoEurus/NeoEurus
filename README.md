@@ -43,5 +43,5 @@ Programador casual y en eterno aprendizaje.
 ## 🌐 Contacto
 
 ![Telegram](https://img.shields.io/badge/Telegram-eurusburan-000000?style=for-the-badge&logo=telegram&logoColor=26A5E4)
-![Instagram](https://img.shields.io/badge/Instagram-@eurusburan-000000?style=for-the-badge&logo=instagram&logoColor=E4405F)
+![Instagram](https://img.shields.io/badge/Instagram-@eurus.gpb-000000?style=for-the-badge&logo=instagram&logoColor=E4405F)
 ![GitHub](https://img.shields.io/badge/GitHub-NeoEurus-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)
