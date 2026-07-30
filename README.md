@@ -62,30 +62,6 @@ Desarrollador apasionado por el backend, la arquitectura de software, la ciberse
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NeoEurus&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeoEurus&layout=compact&theme=github_dark&hide_border=true"/>
-
-<img src="https://streak-stats.demolab.com?user=NeoEurus&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=NeoEurus&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
 # 🎬 Mi contenido
 
 Comparto **mini documentales** sobre informática y tecnología, explicando conceptos, curiosidades e historia de una forma accesible.
