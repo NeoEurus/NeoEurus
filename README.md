@@ -10,7 +10,7 @@ Programador casual y en eterno aprendizaje.
 - Interés en arquitectura de sistemas
 - Aprendizaje continuo de tecnologías modernas
 - Enfoque en rendimiento, claridad y código limpio
-- 7 Certificados CISCO
+- 8 Certificados CISCO
 - Estudiante de Ciberseguridad
 - Apasionado por el pentesting
 
