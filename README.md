@@ -1,47 +1,127 @@
-# @NeoEurus
+<div align="center">
 
-Programador casual y en eterno aprendizaje.
+# 👋 Hola, soy **Eurus**
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3500&pause=1000&color=00FF99&center=true&vCenter=true&width=650&lines=Backend+Developer;Cybersecurity+Student;YouTube+Creator;Always+Learning..." />
 
-## 🧠 Perfil
+<p>
+Desarrollador apasionado por el backend, la arquitectura de software, la ciberseguridad y la divulgación tecnológica.
+</p>
 
-- Desarrollo de software y backend
-- Interés en arquitectura de sistemas
-- Aprendizaje continuo de tecnologías modernas
-- Enfoque en rendimiento, claridad y código limpio
-- 8 Certificados CISCO
-- Estudiante de Ciberseguridad
-- Apasionado por el pentesting
+<img src="https://komarev.com/ghpvc/?username=NeoEurus&label=Profile%20Views&color=00ff99&style=for-the-badge"/>
+
+</div>
 
 ---
 
-## ⚙️ Stack
+# 🚀 Sobre mí
 
-### 💻 Lenguajes
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=white)
+```txt
+> Programador casual.
+> Estudiante de Ciberseguridad.
+> 8 Certificaciones Cisco.
+> Creador de mini documentales sobre informática.
+> Siempre aprendiendo algo nuevo.
+```
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6)
-
-### 🛠️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=FFFFFF)
-
-### 🔧 Tools
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
-![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+* 💻 Desarrollador con enfoque en **Backend**.
+* 🔐 Estudiante de **Ciberseguridad**.
+* 🏗️ Interesado en **Arquitectura de Software**.
+* 🎯 Apasionado por el **Pentesting**.
+* 🎓 Poseo **8 certificaciones Cisco**.
+* 🎥 Creo **mini documentales en YouTube** sobre informática, tecnología, historia de Internet y ciberseguridad.
+* 📚 Me gusta aprender y compartir conocimiento a través de proyectos y contenido educativo.
 
 ---
 
-## 🌐 Contacto
+# 💻 Stack Tecnológico
 
-![Telegram](https://img.shields.io/badge/Telegram-eurusburan-000000?style=for-the-badge&logo=telegram&logoColor=26A5E4)
-![Instagram](https://img.shields.io/badge/Instagram-@eurus.gob-000000?style=for-the-badge&logo=instagram&logoColor=E4405F)
-![GitHub](https://img.shields.io/badge/GitHub-NeoEurus-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)
+### Lenguajes
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,python,java,bash"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+### Herramientas
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=NeoEurus&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeoEurus&layout=compact&theme=github_dark&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=NeoEurus&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=NeoEurus&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 🎬 Mi contenido
+
+Comparto **mini documentales** sobre informática y tecnología, explicando conceptos, curiosidades e historia de una forma accesible.
+
+<p align="center">
+<a href="https://www.youtube.com/@eurushanma">
+<img src="https://img.shields.io/badge/YouTube-Eurus%20Hanma-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+</p>
+
+---
+
+# 📫 Contacto
+
+<p align="center">
+
+<a href="https://t.me/eurushanma">
+<img src="https://img.shields.io/badge/Telegram-eurusburan-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/eurus.gob">
+<img src="https://img.shields.io/badge/Instagram-@eurus.gob-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://github.com/NeoEurus">
+<img src="https://img.shields.io/badge/GitHub-NeoEurus-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## 💭 Filosofía
+
+> **"En una guerra de egos... El perdedor siempre gana!!!"**
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</div>
