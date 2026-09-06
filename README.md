@@ -51,7 +51,13 @@ Desarrollador apasionado por el backend, la arquitectura de software, la ciberse
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php"/>
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb"/>
 </p>
 
 ### Herramientas
