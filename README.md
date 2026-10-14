@@ -1,14 +1,12 @@
 <div align="center">
 
-# 👋 Hola, soy **Eurus**
+<h1>👋 Hola, soy <b><a href="https://eurus.lat">Eurus</a></b></h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3500&pause=1000&color=00FF99&center=true&vCenter=true&width=650&lines=Backend+Developer;Cybersecurity+Student;YouTube+Creator;Always+Learning..." />
 
 <p>
 Desarrollador apasionado por el backend, la arquitectura de software, la ciberseguridad y la divulgación tecnológica.
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=NeoEurus&label=Profile%20Views&color=00ff99&style=for-the-badge"/>
 
 </div>
 
